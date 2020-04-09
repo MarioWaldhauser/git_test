@@ -1,0 +1,1 @@
+This is Mario's first git project! (Actually it's the second, but I'm just following along)
